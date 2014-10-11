@@ -1,6 +1,6 @@
 {
   "name": "skel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple process management wrapper using the cluster module.",
   "main": "lib/index.js",
   "repository": {
