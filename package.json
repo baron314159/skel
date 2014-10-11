@@ -1,0 +1,27 @@
+{
+  "name": "skel",
+  "version": "1.0.0",
+  "description": "A simple process management wrapper using the cluster module.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baron314159/skel.git"
+  },
+  "keywords": [
+    "cluster"
+  ],
+  "author": {
+    "name": "Christopher Utz",
+    "email": "utz.m.christopher@gmail.com",
+    "url": "https://github.com/baron314159"
+  },
+  "dependencies": {
+    "underscore": "1.7.0",
+    "winston": "0.8.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baron314159/skel/issues"
+  },
+  "homepage": "https://github.com/baron314159/skel"
+}
