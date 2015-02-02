@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/baron314159/skel/issues"
   },
-  "homepage": "https://github.com/baron314159/skel"
+  "homepage": "https://github.com/baron314159/skel",
+  "files": [
+      "lib"
+  ]
 }
